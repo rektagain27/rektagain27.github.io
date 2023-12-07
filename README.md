@@ -25,9 +25,9 @@ This is a simple Python script that provides a graphical user interface (GUI) fo
    - Navigate to the directory containing the script in the command prompt or terminal.
    - Execute the script using the following command:
      ```bash
-     python your_script_name.py
+     python main.py
      ```
-     Replace `your_script_name.py` with the actual name of your script.
+     Replace `main.py` with the actual name of your script.
 
 ### Running the Executable (Windows)
 1. **Download the Executable:**
