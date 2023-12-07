@@ -27,7 +27,6 @@ This is a simple Python script that provides a graphical user interface (GUI) fo
      ```bash
      python main.py
      ```
-     Replace `main.py` with the actual name of your script.
 
 ### Running the Executable (Windows)
 1. **Download the Executable:**
