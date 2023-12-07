@@ -47,3 +47,11 @@ To create a standalone executable file, you can use tools like PyInstaller or cx
 
 ## License
 This script is licensed under the [MIT License](LICENSE).
+
+## Support the Project
+
+If you find this CR2 to JPG Converter helpful and would like to support the project, consider making a small donation via [Buy Me a Coffee]((https://www.buymeacoffee.com/rektagain27)).
+
+Your support helps maintain and improve this tool. Thank you for contributing!
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?username=your_username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/rektagain27)
